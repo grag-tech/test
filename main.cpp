@@ -14,7 +14,7 @@ public:
   It begin() const { return begin_; }
   It end() const { return end_; }
 
-private:
+private:mySecondChange
   It begin_;
   It end_;
 };
