@@ -7,6 +7,7 @@
 
 using namespace std;
 
+myMasterChange
 template<typename It>
 class Range {
 public:
