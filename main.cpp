@@ -11,7 +11,7 @@ myMasterChange
 111
 myMasterChange 222
 nyBranch
-
+newNEWWWW
 theLastChange
 template<typename It>
 class Range {
